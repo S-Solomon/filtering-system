@@ -36,7 +36,7 @@ export default [
     },
     {
         id:5,
-        image: blog4,
+        image: blog5,
         title: 'I think Fortnite is dead',
         category: 'Python',
         description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!'
